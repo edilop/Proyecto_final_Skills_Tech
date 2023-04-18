@@ -18,7 +18,7 @@ Para ejecutar el cuaderno de Jupyter, necesitarás tener instalado lo siguiente:
 Para ejecutar el cuaderno de Jupyter en Google Colab, sigue estos pasos:
 - Clona el repositorio en tu ordenador o descarga los archivos en formato ZIP.
 - Abre Google Colab en tu navegador y haz clic en "Archivos".
-- Haz clic en "Subir notebook" y selecciona el archivo "walmart_sales_forecasting.ipynb".
+- Haz clic en "Subir notebook" y selecciona el archivo "Proyecto Final_Forecasting_de_ventas_Walmart.ipynb".
 - Abre el cuaderno y sigue las instrucciones para ejecutar el código.
 - ATENCION: En caso de que la librería pmarima devuevla un error de instalación, debe reiniciar el entorno de ejecución (Ctrl+M.), y volver a ejecutar.
 
