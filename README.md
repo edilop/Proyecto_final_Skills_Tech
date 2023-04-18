@@ -5,6 +5,7 @@ Este proyecto tiene como objetivo realizar un ejercicio de forecasting de ventas
 El proyecto consta de los siguientes archivos:
 
 **walmart_sales_forecasting.ipynb**: el cuaderno de Jupyter que contiene el análisis y la visualización de datos.
+
 **walmart_sales.csv**: el conjunto de datos utilizado para el análisis.
 
 ## Requisitos
