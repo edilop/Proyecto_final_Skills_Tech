@@ -10,8 +10,8 @@ El proyecto consta de los siguientes archivos:
 
 ## Requisitos
 Para ejecutar el cuaderno de Jupyter, necesitarás tener instalado lo siguiente:
-- Python 3
-- Las librerías de Python: pandas, numpy, matplotlib y seaborn.
+- Python 3.9.16
+- Las librerías de Python: pandas, datetime, statsmodels, scipy, plotlyexpress, pmarima, sklearn, prophet, neuralprophet. 
 - Una cuenta de Google para acceder a Google Colab.
 
 ## Cómo ejecutar el cuaderno
@@ -20,6 +20,7 @@ Para ejecutar el cuaderno de Jupyter en Google Colab, sigue estos pasos:
 - Abre Google Colab en tu navegador y haz clic en "Archivos".
 - Haz clic en "Subir notebook" y selecciona el archivo "walmart_sales_forecasting.ipynb".
 - Abre el cuaderno y sigue las instrucciones para ejecutar el código.
+- ATENCION: En caso de que la librería pmarima devuevla un error de instalación, debe reiniciar el entorno de ejecución (Ctrl+M.), y volver a ejecutar.
 
 ## Resultados
 El análisis y la visualización de datos realizados en el cuaderno de Jupyter muestran las tendencias y patrones en los datos de ventas de Walmart. Se han utilizado técnicas de forecasting para predecir las ventas futuras y se han representado los resultados en gráficos para una mejor comprensión.
