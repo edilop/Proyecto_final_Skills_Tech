@@ -29,4 +29,5 @@ El análisis y la visualización de datos realizados en el cuaderno de Jupyter m
 Este proyecto fue creado por Edisson López y está bajo licencia MIT.
 
 ## Contacto
-Si tienes alguna pregunta o sugerencia, no dudes en contactarme en (elopez.data@gmail.com). ¡Gracias por tu interés en este proyecto!
+Si tienes alguna pregunta o sugerencia, no dudes en contactarme en elopez.data@gmail.com. 
+¡Gracias por tu interés en este proyecto!
